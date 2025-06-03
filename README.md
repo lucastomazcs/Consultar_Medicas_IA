@@ -80,15 +80,14 @@ npm install
 npm run dev
 ```
 
-📈 Melhorias Futuras
-Sistema de pagamento e convênio
+📈 MELHORIAS FUTURAS
+- Sistema de pagamento e convênio
+- Notificações por WhatsApp
+- Exportação de relatórios em PDF
+- Painel médico com gráficos de desempenho
 
-Notificações por WhatsApp
+💡 MOTIVAÇÃO
 
-Exportação de relatórios em PDF
-
-Painel médico com gráficos de desempenho
-
-💡 Motivação
-Esse projeto foi desenvolvido com o objetivo de unir habilidades de back-end, banco de dados e análise de dados com aplicação real. É ideal para clínicas que ainda usam sistemas manuais ou planilhas.
+Esse projeto foi desenvolvido com o objetivo de unir habilidades de back-end, banco de dados e análise de dados com aplicação real. 
+É ideal para clínicas que ainda usam sistemas manuais ou planilhas.
 
