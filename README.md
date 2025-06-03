@@ -78,6 +78,8 @@ uvicorn main:app --reload
 cd frontend
 npm install
 npm run dev
+```
+
 📈 Melhorias Futuras
 Sistema de pagamento e convênio
 
